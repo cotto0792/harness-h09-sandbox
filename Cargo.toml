@@ -1,0 +1,8 @@
+[package]
+name = "synthetic-service"
+version = "0.1.0"
+edition = "2021"
+description = "Synthetic crate for agent-harness smoke tests. Contains no client code or data."
+publish = false
+
+[dependencies]
